@@ -75,7 +75,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nhathuy-youtube" />
   </a>
   <a href="https://www.tiktok.com/@binchupanh" target="blank">
-    <img src="https://icons8.com/bubbles/100/000000/tiktok" alt="nhathuy-tiktok" />
+    <img src="https://icons8.com/bubbles/100/000000/tiktok.png" alt="nhathuy-tiktok" />
   </a>
   <a href="https://www.instagram.com/_nh.bin16/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nhathuy-instagram" />
