@@ -66,19 +66,19 @@
 <!-- https://icons8.com -->
 <div align="center">
   <!-- <a href="#" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+    <img width="90" height="90" src="images/logo-nhathuy-transparent-bg-192x192.png" alt="nhathuy-blog" />
   </a> -->
   <a href="https://www.facebook.com/nhathuy1630/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nhathuy-facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCvIxPtrAWelao8Dt9AJz7eg" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nhathuy-youtube" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a> -->
+  <a href="https://www.tiktok.com/@binchupanh" target="blank">
+    <img src="https://icons8.com/icon/-x2V8Q63DerT/tiktok" alt="nhathuy-tiktok" />
+  </a>
   <a href="https://www.instagram.com/_nh.bin16/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nhathuy-instagram" />
   </a>
   <!-- <a href="mailto:trungquandev.official@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
